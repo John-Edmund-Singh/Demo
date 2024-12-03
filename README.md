@@ -1,3 +1,4 @@
 This is my first GITHUB 
 <br>
-Author - John Edmund Singh
+Author - John Edmund Singh (Cool)
+
